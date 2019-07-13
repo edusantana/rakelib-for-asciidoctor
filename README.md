@@ -25,3 +25,4 @@ git submodule add https://github.com/edusantana/rakelib-for-asciidoctor rakelib
 rake -T
 ```
 
+- [How to remove the git submodule](https://stackoverflow.com/questions/1260748/how-do-i-remove-a-submodule)
